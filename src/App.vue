@@ -1,6 +1,6 @@
 <template>
 <main>
-  <h1>Rishi Kirukkan Counter App</h1>
+  <h1>Counter App</h1>
   <p class = "count"> Current Count is : {{count}}</p>
   <div class="buttonContainer">
     <button @click="increaseCount" v-if="count<20">Increase</button>
