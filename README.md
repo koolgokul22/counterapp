@@ -1,3 +1,7 @@
+A simple counter app developed using vuejs.
+
+
+
 # counterapp
 
 ## Project setup
